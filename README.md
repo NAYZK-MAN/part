@@ -1,6 +1,6 @@
 # part
 # Install on Termux 
-The tool is programmed to solve Metasploit problems with missing gems installed 
+The tool is programmed to install and problems with Metasploit with missing gems installed 
 
 installation 
 
