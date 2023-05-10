@@ -2,7 +2,7 @@
 # Install on Termux 
 The tool is programmed to solve Metasploit issues with missing gems 
 
-Install on Termux 
+installation 
 
 `git clone https://github.com/NAYZK-MAN/part`
 
